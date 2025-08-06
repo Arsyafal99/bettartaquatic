@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
 Sitemap: https://arsyafal99.github.io/bettartaquatic/sitemap.xml
+=======
+User-agent: *
+Allow: /
+
+Sitemap: https://bettartaquatic.github.io/sitemap.xml
+>>>>>>> 511d44dbf3ca2a9cf631e46777a9f0560a2c198a
